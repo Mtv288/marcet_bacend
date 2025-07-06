@@ -1,0 +1,16 @@
+# Virtual environment
+.env
+.venv/
+venv/
+
+#all
+dump/
+start_test.sh
+.idea
+.git
+.gitignore
+docker-compose.yml
+Dockerfile
+README.md
+__pycache__
+__pycache__.py
