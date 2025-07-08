@@ -1,0 +1,14 @@
+select = ["E", "F", "W", "I", "UP", "C90", "B"]
+ignore = []
+fixable = ["A", "B", "C", "D", "E", "F", "I", "N", "Q", "S", "T", "W", "UP"]
+unfixable = []
+line-length = 120
+
+[isort]
+known-first-party = ["src"]
+required-imports = ["from __future__ import annotations"]
+
+[format]
+indent-style = "space"
+indent-width = 4
+quote-style = "double"
