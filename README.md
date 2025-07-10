@@ -36,8 +36,6 @@
           - poetry shell
           #### Добавить новую зависимость
           - poetry add package-name
-          #### Добавить dev-зависимость
-          - poetry add --group dev package-name
           #### Обновить зависимости
           - poetry update
           #### Запустить приложение
